@@ -1,2 +1,4 @@
 # HCCDA-TechEssential
-Create this repo for HCCDA Teach Essential Course Labs. 
+
+
+This Repo is Created for HCCDA Teach Essential Course Labs. 

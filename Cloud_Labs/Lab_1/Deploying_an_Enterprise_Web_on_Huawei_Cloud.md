@@ -1,6 +1,5 @@
 # Lab 1: Deploying an Enterprise Web on Huawei Cloud
 
-![VPC Setup](images/S1)
 
 ## Objective
 Deploy a website on Huawei Cloud using ECS for the web server and RDS for the database, integrated in a secure VPC environment.
@@ -14,7 +13,9 @@ Deploy a website on Huawei Cloud using ECS for the web server and RDS for the da
   - **Region**: AP-Singapore
   - **Name**: `vpc-mp`
   - **Other Settings**: Leave defaults
+ 
 
+![VPC Setup](images/S1.png)
 ---
 
 ## Step 2: Create Security Group
@@ -25,6 +26,8 @@ Deploy a website on Huawei Cloud using ECS for the web server and RDS for the da
     - **Protocol & Port**: All
     - **Source**: `0.0.0.0/0`
 
+
+![Security Group](images/S2.png)
 ---
 
 ## Step 3: Buy ECS
@@ -41,6 +44,8 @@ Deploy a website on Huawei Cloud using ECS for the web server and RDS for the da
   - **Login Mode**: Password (set e.g. `Huawei@123!`)
 - Click **Submit**
 
+
+![ECS](images/S3.png)
 ---
 
 ## Step 4: Buy RDS MySQL Instance
@@ -55,4 +60,6 @@ Deploy a website on Huawei Cloud using ECS for the web server and RDS for the da
   - **DB Password**: e.g. `Huawei!@#$`
 - Click **Buy Now**
 
+
+![RDS MySQL](images/S4.png)
 ---

@@ -3,7 +3,7 @@
 ![DeepSeek Lab](images/S5.png)
 
 ## Objective
-Deploy the DeepSeek-R1 1.5B large language model using Huawei Cloud ECS and Ollama.
+Deploy the DeepSeek-R1 7B large language model using Huawei Cloud ECS and Ollama.
 
 ---
 

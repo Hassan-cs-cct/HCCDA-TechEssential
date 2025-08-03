@@ -1,4 +1,4 @@
-# Lab 4: Installing and Deploying DeepSeek-R1 1.5B on Huawei Cloud
+# Lab 4: Installing and Deploying DeepSeek-R1 7B on Huawei Cloud
 
 ![DeepSeek Lab](images/S5.png)
 
